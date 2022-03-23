@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there it's Antonio 👋
+
+- 🎓 I’m currently a student @ Polytechnic University of Turin
+- 🌱 I’m currently learning Android application development
+- 💬 Ask me about anything you can think of
+- 📫 How to reach me: antoves1998#gmail.com
+- ⚡ Fun fact: ...
 
 <!--
 **mrwasp98/mrwasp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
