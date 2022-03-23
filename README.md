@@ -3,8 +3,13 @@
 - 🎓 I’m currently a student @ Polytechnic University of Turin
 - 🌱 I’m currently learning Android application development
 - 💬 Ask me about anything you can think of
-- 📫 How to reach me: antoves1998#gmail.com
-- ⚡ Fun fact: ...
+- 📫 How to reach me: antoves1998@gmail.com
+
+About me I can say that I am an engineer with a passion for programming and with a keen eye for design!
+
+###Languages and Tools:ù
+
+
 
 <!--
 **mrwasp98/mrwasp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
