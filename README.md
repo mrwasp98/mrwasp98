@@ -7,9 +7,9 @@
 
 About me I can say that I am an engineer with a passion for programming and with a keen eye for design!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 ### Languages and Tools:
-
-
 
 <!--
 **mrwasp98/mrwasp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
